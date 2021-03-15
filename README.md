@@ -1,1 +1,1 @@
-# SprinProtobuf-server-part
+# SpringProtobuf server
