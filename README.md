@@ -1,1 +1,1 @@
-# SpringProtobuf server
+# Spring Protobuf Server example
